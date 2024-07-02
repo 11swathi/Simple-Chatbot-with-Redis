@@ -1,6 +1,18 @@
 # Simple-Chatbot-with-Redis
 
 
+## Author
+
+- Author: Swathi Baskaran
+- GitHub Handle: 11swathi
+- Email: swathib@umd.edu
+
+
+## Link to the video explanation
+
+Link: https://drive.google.com/file/d/1hGhIeJZ1arcEJYY0HQFQdoVAvQIxujQm/view?usp=sharing
+
+
 ## How to run the project?
 
 - This project utilizes Docker to run two containers: `chatbot-redis` for caching and `chatbot-web` for hosting the chatbot application
