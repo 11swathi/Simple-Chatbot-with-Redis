@@ -59,3 +59,23 @@ Link: https://drive.google.com/file/d/1hGhIeJZ1arcEJYY0HQFQdoVAvQIxujQm/view?usp
     KEYS *
     ```
 - Type `exit` to come out of the Redis CLI
+
+
+
+### Output screenshots
+
+- Shown below is the output screenshot at `localhost:8000` or `https://127.0.0.1:8000`
+
+    <img src="Chatbot/images/chatbot.png" width="600" height="450" style="display: block; margin-left: auto; margin-right: auto;"/>
+
+
+
+- You can chat with the chatbot and get a dynamic and personalized response
+
+    <img src="Chatbot/images/Chat.png" width="600" height="450" style="display: block; margin-left: auto; margin-right: auto;"/>
+
+
+
+- The image below shows the Redis CLI, where you can inspect the cache data
+
+    <img src="Chatbot/images/redis-cli.png" width="500" height="310" style="display: block; margin-left: auto; margin-right: auto;"/>
